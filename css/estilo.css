@@ -71,13 +71,7 @@
     fill:"none";
  }
 
- .container {
-    list-style-type: none;
-    display: flex;
-    align-items: center;
-    display:flex;
-    justify-content: space-between;
- }
+
  /* Specific Login */
 main > section.auth {
     height: 60vh;
